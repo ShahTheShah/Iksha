@@ -14,4 +14,9 @@ body {
     line-height: $line-h;
     color:        $color;
     font-feature-settings: "lnum";
+
+    &.cropBody {
+        width: 100vw; height: 100vh;
+        overflow: hidden;
+    }
 }

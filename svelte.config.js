@@ -18,6 +18,7 @@ export default {
             $assets: path.resolve('./src/assets'),
             $component: path.resolve('./src/components'),
             $module: path.resolve('./src/lib/modules'),
+            $store: path.resolve('./src/lib/stores'),
             $section: path.resolve('./src/sections'),
             $image: path.resolve('./static/images'),
         }

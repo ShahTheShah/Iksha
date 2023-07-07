@@ -25,6 +25,12 @@
 			"$module/*": [
 				"../src/lib/modules/*"
 			],
+			"$store": [
+				"../src/lib/stores"
+			],
+			"$store/*": [
+				"../src/lib/stores/*"
+			],
 			"$section": [
 				"../src/sections"
 			],

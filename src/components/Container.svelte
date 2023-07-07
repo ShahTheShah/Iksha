@@ -8,6 +8,7 @@
 <style lang="scss">
     $class: ".container";
     #{$class} {
+        height: 100%;
         @include mediaQueryMin($breakpoint-xs) {
             margin: 0 auto;
             width: 100%;

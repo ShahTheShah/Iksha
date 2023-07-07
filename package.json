@@ -16,6 +16,7 @@
 		"dotenv": "^16.0.3",
 		"sass": "^1.62.1",
 		"svelte": "^3.59.1",
+		"svelte-body": "^1.4.0",
 		"svelte-preprocess": "^5.0.3",
 		"svg-sprite": "^2.0.2",
 		"ttf2woff2": "^5.0.0",
